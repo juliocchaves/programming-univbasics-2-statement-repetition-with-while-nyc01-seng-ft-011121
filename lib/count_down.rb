@@ -4,5 +4,5 @@ count = 10
 while count > 1 do
   break if count == exit_number
   count -= 1 
-  puts "Happy New Year!"
 end
+  puts "Happy New Year!"
